@@ -179,6 +179,10 @@ I 1 <br>
 J 0 <br>
 <hr>
 <h2>Sample Output</h2>
+
+![279568885-cbef51e6-dac3-49f4-80ba-ccceed417012](https://github.com/vinodkumar-s/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/113497226/1f32a722-5adb-4cb2-98d5-3c1ac9741613)
+
+
 <hr>
 Path found: ['A', 'F', 'G', 'I', 'J']
 
@@ -208,6 +212,9 @@ D 1 <br>
 G 0 <br>
 <hr>
 <h2>Sample Output</h2>
+
+![279569008-ab01d3d5-0a6e-46cd-acf1-4ed018b0bd0e](https://github.com/vinodkumar-s/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/113497226/2d7680bd-5573-4681-bd1d-5d4fed55c688)
+
 <hr>
 Path found: ['A', 'E', 'D', 'G']
 
