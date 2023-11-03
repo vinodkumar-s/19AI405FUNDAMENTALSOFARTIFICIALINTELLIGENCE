@@ -135,11 +135,9 @@ D E <BR>
 D G <BR>
 G F <BR>
 <hr>
-<h3>Sample Output</h3>
-<hr>
-['A', 'B', 'C', 'F', 'E', 'D', 'G']
 
-<hr>
+![278595073-16e8d97f-a542-41e4-ae36-f2add0879a78](https://github.com/vinodkumar-s/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/113497226/de59ee3c-b719-4393-9eec-19d5d9b7ea1d)
+
 
 <hr>
 <h3>Sample Input</h3>
@@ -152,10 +150,10 @@ G F <BR>
 2 4 <BR>
 3 4 <BR>
 <hr>
-<h3>Sample Output</h3>
-<hr>
-['0', '1', '2', '3', '4']
-<hr>
+
+![278595156-2bede138-73ae-4d57-801e-16b542831be1](https://github.com/vinodkumar-s/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/113497226/0acdaa1e-47e5-4e55-9f71-2d365bae5078)
+
+ 
 <h3>Result:</h3>
 <hr>
 <p>Thus,a Graph was constructed and implementation of Breadth First Search for the same graph was done successfully.</p>
