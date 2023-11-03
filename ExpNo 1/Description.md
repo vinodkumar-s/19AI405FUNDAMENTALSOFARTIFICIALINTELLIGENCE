@@ -117,9 +117,8 @@ D F <BR>
 G F <BR>
 F H <BR>
 <hr>
-<h3>Sample Output</h3>
-<hr>
-['A', 'B', 'E', 'D', 'C', 'G', 'F', 'H']
+
+![278588982-95fb3cd1-c46c-4bc0-b153-7d75ecca988f](https://github.com/vinodkumar-s/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/113497226/6526c6b9-83cc-4e4c-b502-e73e134f3300)
 
 <hr>
 
@@ -133,11 +132,10 @@ F H <BR>
 2 3 <BR>
 2 4 <BR>
 <hr>
-<h3>Sample Output</h3>
-<hr>
-['0', '1', '2', '3', '4']
 
-<hr>
+
+![278589423-fe80b327-0443-4524-a70c-711b1771a48a](https://github.com/vinodkumar-s/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/113497226/b7371acd-77f8-4447-8ac4-0c3b4f74ae17)
+
 <h3>Result:</h3>
 <hr>
 <p>Thus,a Graph was constructed and implementation of Depth First Search for the same graph was done successfully.</p>
