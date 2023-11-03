@@ -302,5 +302,11 @@ if __name__ == "__main__":
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/a2acb6a1-ed8e-42e5-8968-fe805e4b0255)
 
 <hr>
+
+### OUTPUT:
+
+![279870641-df3780d5-0299-45df-8eda-32aeb7cb9cb7](https://github.com/vinodkumar-s/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/113497226/fec70522-71a2-4323-aea7-33db3aa732f9)
+
+
 <h2>Result:</h2>
 <p>Thus,Implementation of  Minimax Search Algorithm for a Simple TIC-TAC-TOE game wasa done successfully.</p>
