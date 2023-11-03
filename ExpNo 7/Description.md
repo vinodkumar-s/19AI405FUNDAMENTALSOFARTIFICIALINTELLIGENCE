@@ -109,5 +109,11 @@ MORE = 1085<br>
 <hr>
 MONEY = 10652<br>
 <hr>
+
+### OUTPUT:
+
+![279877845-e5191759-7cce-4af5-97f0-74ca445a8f8d](https://github.com/vinodkumar-s/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/113497226/dd74d698-33e7-4ccc-901a-f99c7625248a)
+
+
 <h2>Result:</h2>
 <p> Thus a Cryptarithmetic Problem was solved using Python successfully</p>
